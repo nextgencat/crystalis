@@ -1,5 +1,5 @@
-# Crystalis - Free Roblox Tool
-# Download
+# Crystalis & CrystalisAPI
+# Crystalis Download
 https://discord.gg/9JKuRCTXBg
 # CrystalisAPI
 Newest version created with .NET 9.0 using VelocityAPI.
